@@ -1,5 +1,5 @@
 function fish_prompt
-	echo
+  echo
 
   function fst; set_color -o fa0; end
   function snd; set_color -o 36f; end
