@@ -12,8 +12,9 @@
 ## Install
 
 ```fish
-$ omf cd
-$ git clone https://github.com/MrHuxu/devola.git themes/
+$ omf cd; and cd themes
+$ git clone https://github.com/MrHuxu/devola.git
+$ omf theme devola
 ```
 
 
